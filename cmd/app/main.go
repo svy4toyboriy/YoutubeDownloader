@@ -13,7 +13,7 @@ func main() {
 }
 
 func run() error {
-	bot, err := tgbotapi.NewBotAPI("7594228625:AAFEI3IteO3hzic59HIF0W2TN5Q8buFmlK4")
+	bot, err := tgbotapi.NewBotAPI("KEY")
 	if err != nil {
 		log.Fatalf("Failed to create bot: %v", err)
 	}
