@@ -1,7 +1,7 @@
 # ContentDealerBot
 
 Чат-бот, с помощью которого можно быстро и удобно искать и скачивать видео из YouTube в Telegram в разных форматах. 
-Для ознакомления - https://t.me/thecontentdealerbot
+Для ознакомления - t.me/thecontentdealerbot
 
 **Пример работы:**
 
